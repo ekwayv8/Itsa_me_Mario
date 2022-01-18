@@ -13,21 +13,13 @@ You will find inside this repository 2 type of file:
 This is the list of exercises that i have done :
 
 
-`exo01.rb`\
-`exo02.rb`\
-`exo03.rb`\
-`exo04.rb`\
-`exo05.rb`\
-`exo06.rb`\
-`exo07.rb`\
-`exo08.rb`\
-`exo09.rb`\
-`exo10.rb`\
-`exo.11.rb`\
-`exo.12.rb`\
-`exo.13.rb`\
-`exo.14.rb`\
-`exo.15.rb`\
-`exo.16.rb`\
+|`exo01.rb`|`exo02.rb`|
+|`exo03.rb`|`exo04.rb`|
+|`exo05.rb`|`exo06.rb`|
+|`exo07.rb`|`exo08.rb`|
+|`exo09.rb`|`exo10.rb`|
+|`exo.11.rb`|`exo.12.rb`|
+|`exo.13.rb`|`exo.14.rb`|
+|`exo.15.rb`|`exo.16.rb`|
 
 🎆 Have a great day🎇 😉👨🏾‍💻
