@@ -7,14 +7,14 @@
 ## Exercise done
 You will find inside this repository 2 type of file:
 
-**1) this readme in a markdown format **
-**2) `.rb` files for each exercises that i provided**
+**1) this readme in a markdown format**\
+**2) `.rb` files for each exercises that i provided**\
 
 This is the list of exercises that i have done :
 
 
-`exo01.rb
- exo02.rb
+`exo01.rb\
+ exo02.rb\
  exo03.rb
  exo04.rb
  exo05.rb
