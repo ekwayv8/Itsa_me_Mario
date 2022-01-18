@@ -9,14 +9,14 @@ user_year_of_birth.upto(2022) do |i|
 	year = 2022 - i
 
 	if i == user_year_of_birth
-puts "Il y a #{year} ans, tu avais #{age} an"
+		puts "Il y a #{year} ans, tu avais #{age} an"
 	elsif i == user_year_of_birth + 1
-puts "Il y a #{year} ans, tu avais #{age+1} an"
+		puts "Il y a #{year} ans, tu avais #{age+1} an"
 	elsif year < 1
-puts "Il y a #{year} an, tu avais #{age+2} ans"
+		puts "Il y a #{year} an, tu avais #{age+2} ans"
 	else 
-puts "Il y a #{year} ans, tu avais #{age+2} ans"
-	i=i+1
-	age = age + 1
-end
+		puts "Il y a #{year} ans, tu avais #{age+2} ans"
+		i=i+1
+		age = age + 1
+	end
 end
