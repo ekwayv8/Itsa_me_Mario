@@ -20,6 +20,6 @@ This is the list of exercises that i have done :
 `exo09.rb` |`exo10.rb`\
 `exo.11.rb` |`exo.12.rb`\
 `exo.13.rb` |`exo.14.rb`\
-`exo.15.rb` |`exo.16.rb`\
+`exo.15.rb` |`exo.16.rb`
 
 🎆 Have a great day🎇 😉👨🏾‍💻
